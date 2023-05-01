@@ -1,0 +1,59 @@
+.mainadmin {
+    background-color:black;
+
+}
+.header4
+{
+    color:#ff7200;
+}
+.logo{
+    color: #ff7200;
+    font-size: 30px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+}
+.trash{
+color: #ff7200;
+}
+.add
+{
+        position: relative;
+        left:95vw;
+        }
+/* .menu{
+    width: 600px;
+    float: right;
+    height: 50px;
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: antiquewhite;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: #ff7200;
+} */
+
+.reser {  
+    color: #fff;
+}
