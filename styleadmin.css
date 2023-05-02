@@ -57,3 +57,8 @@ ul li a:hover{
 .reser {  
     color: #fff;
 }
+.goright
+{
+    position: relative;
+    left:85%;
+}
