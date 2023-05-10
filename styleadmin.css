@@ -2,6 +2,10 @@
     background-color:black;
 
 }
+.homeadmin
+{
+background: linear-gradient(to top, rgba(0,0,0,0.7)70%, rgba(0,0,0,0.7)70% ), url(home.jpg);
+}
 .header4
 {
     color:#ff7200;
@@ -61,4 +65,22 @@ ul li a:hover{
 {
     position: relative;
     left:85%;
+}
+.content h1{
+    color: #fff;
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 400px;
+    padding-right: 70px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+}
+
+.parag{
+    color: #fff;
+    padding-left: 500px;
+    padding-bottom: 30px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
 }
